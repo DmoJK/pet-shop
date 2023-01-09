@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pet-shop/static/css/main.955a4208.css",
+    "main.js": "/pet-shop/static/js/main.502ce9c5.js",
+    "static/media/petsBanner3.jpg": "/pet-shop/static/media/petsBanner3.a3747ce3df3e778b01be.jpg",
+    "index.html": "/pet-shop/index.html",
+    "main.955a4208.css.map": "/pet-shop/static/css/main.955a4208.css.map",
+    "main.502ce9c5.js.map": "/pet-shop/static/js/main.502ce9c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.955a4208.css",
+    "static/js/main.502ce9c5.js"
+  ]
+}
