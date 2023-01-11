@@ -3,7 +3,7 @@ import { ICart, IProduct } from '../models/IProduct'
 
 export const productsAPI = createApi({
     reducerPath: 'productsAPI',
-    baseQuery: fetchBaseQuery({ baseUrl: 'https://pet-shop-project.herokuapp.com/api' }),
+    baseQuery: fetchBaseQuery({ baseUrl: 'https://pet-shop-api.onrender.com/' }),
     tagTypes: ['Product', 'CartItem'],
     endpoints: (build) => ({
         fetchAllProducts: build.query<IProduct[], string>({
