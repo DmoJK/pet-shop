@@ -7,7 +7,7 @@ import { setupStore } from './store/store';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
-);
+)
 const store = setupStore()
 root.render(
   <React.StrictMode>
@@ -17,4 +17,4 @@ root.render(
       </BrowserRouter>
     </Provider>
   </React.StrictMode>
-);
+)
